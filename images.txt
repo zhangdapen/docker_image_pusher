@@ -8,3 +8,4 @@ mongodb/mongodb-community-server:4.4.0-ubuntu2004
 mongodb/mongodb-community-server:8.0.0-ubuntu2204
 minio/minio:latest
 portainer/portainer
+networkstatic/iperf3
