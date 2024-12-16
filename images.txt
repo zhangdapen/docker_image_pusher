@@ -10,3 +10,4 @@ minio/minio:latest
 portainer/portainer
 networkstatic/iperf3
 rabbitmq:3.11.17-management
+redis:6.2
