@@ -11,3 +11,4 @@ portainer/portainer
 networkstatic/iperf3
 rabbitmq:3.11.17-management
 redis:6.2
+percona/mongodb_exporter
