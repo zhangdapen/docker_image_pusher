@@ -12,3 +12,4 @@ networkstatic/iperf3
 rabbitmq:3.11.17-management
 redis:6.2
 percona/mongodb_exporter:0.43.1
+prom/prometheus:v3.1.0
