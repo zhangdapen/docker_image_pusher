@@ -1,18 +1,8 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-mongodb/mongodb-community-server:4.4.0-ubuntu2004
 mongodb/mongodb-community-server:8.0.0-ubuntu2204
 minio/minio:latest
 portainer/portainer
-networkstatic/iperf3
 rabbitmq:3.11.17-management
 redis:6.2
-percona/mongodb_exporter:0.43.1
-prom/prometheus:v3.1.0
-node:20.19-alpine
 postgres:16.11-alpine3.23
 zinclabs/openobserve:latest
