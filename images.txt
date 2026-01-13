@@ -15,3 +15,4 @@ percona/mongodb_exporter:0.43.1
 prom/prometheus:v3.1.0
 node:20.19-alpine
 postgres:16.11-alpine3.23
+zinclabs/openobserve:latest
