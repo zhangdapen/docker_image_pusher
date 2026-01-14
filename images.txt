@@ -5,4 +5,4 @@ portainer/portainer
 rabbitmq:3.11.17-management
 redis:6.2
 postgres:16.11-alpine3.23
-zinclabs/openobserve:latest
+public.ecr.aws/zinclabs/openobserve:latest
